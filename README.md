@@ -1,3 +1,3 @@
-#First project
+# Mastering JavaScript
 
-Sharpening my front end language.
+### combined loading screen and todo-list
